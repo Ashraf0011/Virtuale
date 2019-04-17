@@ -1,6 +1,7 @@
 
 ion-content{
-    --background: seagreen url('../../assets/images/landing_image.jpg') no-repeat center center /cover;
+    --background: #f4f5f8;
+//    url('../../assets/images/landing_page.png') no-repeat center center / cover;
 }
 #nametag{
     padding: 20px;
@@ -9,11 +10,8 @@ ion-content{
     font-weight: 900 ;
     font-family: 'Snowburst One', cursive;
     @import url('https://fonts.googleapis.com/css?family=Snowburst+One');
-    color: lightseagreen;
+    color: #86888f;
 
 
 }
 
-#logincard {
-    padding-top: 200px;
-}

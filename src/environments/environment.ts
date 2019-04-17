@@ -8,12 +8,7 @@ export const environment = {
 
 
 const config ={
-    apiKey: "AIzaSyCRdP642Zhl66kdjxKgML_xKpJ7s_RFffk",
-    authDomain: "edu-virtale.firebaseapp.com",
-    databaseURL: "https://edu-virtale.firebaseio.com",
-    projectId: "edu-virtale",
-    storageBucket: "edu-virtale.appspot.com",
-    messagingSenderId: "549185062312"
+    
   };
 
 /*
