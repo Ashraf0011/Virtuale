@@ -1,15 +1,26 @@
+
 .page-title{
-  color: #222428;
+  color: #333333;
   text-align: center;
   text-shadow: 1px 1px 1px #a2a4ab;
   }
+ ion-icon{
+  float: right;
+}
+
 .unit-list {
   flex-direction: column;
 }
-ion-button{
-  width: 40%;
-}
-ion-row{
+
+.buttons{
   padding-left: 10px;
-  padding-top: 15px;
+}
+ion-button{
+  width: 60%;
+  color: #222428;
+  border-radius: 4px;
+}
+div .buttons {
+  text-align: -webkit-left;
+  text-align: left;
 }
