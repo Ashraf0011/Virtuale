@@ -7,9 +7,6 @@ export const environment = {
 };
 
 
-const config ={
-    
-  };
 
 /*
  * For easier debugging in development mode, you can import the following file
